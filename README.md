@@ -3,4 +3,4 @@ Projetos da sequencia didática das aulas de Pensamento Computacional - 1º, 2º
 Contém ainda um projeto adicional desenvolvido para reforçar as habilidades.
 
 Link de Acesso aos Resultados:
-https://professor-elves.github.io/2024_PensamentoComputacional_2G/
+https://nataniel788.github.io/matematica-2g-2024/
